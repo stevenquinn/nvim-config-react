@@ -10,7 +10,7 @@ Plug 'tpope/vim-surround'
 Plug 'tpope/vim-eunuch'
 Plug 'tpope/vim-vinegar'
 Plug 'jiangmiao/auto-pairs'
-Plug 'vim-jsx plugin'
+Plug 'vim-jsx/plugin'
 Plug 'pangloss/vim-javascript'
 
 call plug#end()
